@@ -2,7 +2,7 @@ package main;
 
 import java.util.Stack;
 
-public class StackStructure {
+public class Stacks {
 	
 	// Check if stack is empty
 		static void stack_empty(Stack<Integer> stack) {
